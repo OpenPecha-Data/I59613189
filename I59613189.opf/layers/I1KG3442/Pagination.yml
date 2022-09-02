@@ -1,0 +1,94 @@
+id: be109fc454684d94b1d0a49f87c2fa2b
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  02868820e3d14a3ab587e6c93f9a992d:
+    span:
+      start: 0
+      end: 648
+    imgnum: 1
+    reference: I1KG34420001.tif
+  096896ee19714eb29f20dada4a4e4376:
+    span:
+      start: 649
+      end: 725
+    imgnum: 3
+    reference: I1KG34420003.tif
+  fb2cbf3035c748f184c35e4c982bcb57:
+    span:
+      start: 726
+      end: 1240
+    imgnum: 4
+    reference: I1KG34420004.tif
+  681338d2cad846d4a6be387cecef4b8a:
+    span:
+      start: 1241
+      end: 1997
+    imgnum: 5
+    reference: I1KG34420005.tif
+  c136d836b922476db74ef50514dd9009:
+    span:
+      start: 1998
+      end: 2642
+    imgnum: 6
+    reference: I1KG34420006.tif
+  2a1eb715a4ba4ffd9abdd957e25ab593:
+    span:
+      start: 2643
+      end: 3420
+    imgnum: 7
+    reference: I1KG34420007.tif
+  57b83307456248cab64c51268273535c:
+    span:
+      start: 3421
+      end: 4058
+    imgnum: 8
+    reference: I1KG34420008.tif
+  ad9f5603561d4cf0870980bef5396fd1:
+    span:
+      start: 4059
+      end: 4806
+    imgnum: 9
+    reference: I1KG34420009.tif
+  ed2cceb5ba26444c8b61bfc98546ed03:
+    span:
+      start: 4807
+      end: 5348
+    imgnum: 10
+    reference: I1KG34420010.tif
+  6e9e7645edac4a979b3612b1b2bf718e:
+    span:
+      start: 5349
+      end: 6069
+    imgnum: 11
+    reference: I1KG34420011.tif
+  9e356956a0814f23ac39612728c6b883:
+    span:
+      start: 6070
+      end: 6792
+    imgnum: 12
+    reference: I1KG34420012.tif
+  7bc08810965448c88131a65f931835a2:
+    span:
+      start: 6793
+      end: 7509
+    imgnum: 13
+    reference: I1KG34420013.tif
+  f5709bfbe3f94f28afd56a6fc5c6ac96:
+    span:
+      start: 7510
+      end: 8262
+    imgnum: 14
+    reference: I1KG34420014.tif
+  f82f2cadc8964c499045333a69a9a01c:
+    span:
+      start: 8263
+      end: 9018
+    imgnum: 15
+    reference: I1KG34420015.tif
+  7863a37de88b4aabb7b9ce1710561bf0:
+    span:
+      start: 9019
+      end: 9098
+    imgnum: 16
+    reference: I1KG34420016.tif
